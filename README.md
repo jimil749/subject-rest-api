@@ -1,4 +1,4 @@
-# Subject Management REST-API
+# Subject Management REST-API (Tested with Postman)
 
 ## Endpoints
 
